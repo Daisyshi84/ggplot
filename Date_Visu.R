@@ -1,7 +1,6 @@
 ##---
 # R code for Data Vislization with R
-#  Guangyu Zhu
-#  guangyuzhu@uri.edu
+
 ## -----
 library(ggplot2)
 library(GGally)
